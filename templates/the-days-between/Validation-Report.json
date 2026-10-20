@@ -1,0 +1,26 @@
+{
+  "pages": 56,
+  "main_pages": 52,
+  "alternative_covers": 4,
+  "picture_placeholders": 92,
+  "a4_dimensions_verified": true,
+  "pdf_export": "LibreOfficeDev 26.8.0.0.alpha0",
+  "expected_text_blocks": 581,
+  "missing_text_blocks_in_pdf": 0,
+  "text_box_overlaps": 0,
+  "picture_text_collisions": 0,
+  "picture_insertion_and_geometry_checks_passed": 92,
+  "inserted_pictures_visible_in_qa_pdf": 92,
+  "template_contains_raster_media": false,
+  "reference_images_in_product": false,
+  "microsoft_powerpoint_interactive_test": "not run",
+  "canva_import_test": "not run",
+  "physical_print_proof": "not run",
+  "legal_or_trademark_clearance": "not performed",
+  "final_visual_contact_sheet_review": "all 56 pages reviewed",
+  "selected_full_size_pages_reviewed": [
+    1,
+    53
+  ],
+  "photo_insertion_layout_visual_check": "page 12 verified with diagnostic imagery"
+}

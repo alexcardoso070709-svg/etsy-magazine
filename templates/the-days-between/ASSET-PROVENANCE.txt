@@ -1,0 +1,27 @@
+THE DAYS BETWEEN — ASSET PROVENANCE
+
+Reference: 56 JPG pages supplied by the user in "Kopie von Kopie von italy travel magazine (A4).zip".
+Reference use: visual analysis of the general product category, page functions and scope.
+No source reference image, source photo, product cut-out, logo, decorative sticker or source paragraph is embedded in the deliverable.
+
+Layouts: independently composed for this project.
+Text: newly written headings and editing prompts for this project.
+Artwork: geometric shapes composed for this project, editable in the PPTX.
+Photographs: none included. 92 picture placeholders await the buyer's own material.
+AI-generated photographs: none.
+
+Fonts:
+- Noto Serif Display Regular and Italic: SIL Open Font License 1.1.
+  Source provenance: the environment's Debian fonts-noto-core package.
+  The included Noto-Serif-Display-LICENSE.txt contains the font notice and licence.
+- Open Sans Regular and Bold: Apache License 2.0.
+  Source provenance: the environment's Debian fonts-open-sans package.
+  The included NOTICE and full Apache licence text must accompany redistribution.
+
+No paid stock-asset licence or Canva Pro element is needed for the supplied design.
+The font licences still apply. No blanket claim of "licence-free", exclusivity,
+trademark clearance or legal safety is made.
+
+The Days Between is a working editorial title. No trademark search was performed.
+No legal opinion or formal clearance of the reference was obtained.
+The seller must determine the buyer licence and review any additional assets they add.
