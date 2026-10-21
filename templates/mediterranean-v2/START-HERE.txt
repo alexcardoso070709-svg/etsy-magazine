@@ -1,0 +1,15 @@
+TRAVEL MAGAZINE V2
+
+Use Travel-Magazine-V2-A4.pptx for the standard A4 template.
+Use Travel-Magazine-V2-Letter.pptx only if you want the original US Letter format.
+
+1. Install the four fonts in Fonts.
+2. Open a working copy of the PPTX.
+3. Read Editing-Guide-EN.pdf.
+4. Choose a front cover (1–3) and a back cover (53, 54 or 56).
+5. Replace example names, dates, stories and images as desired.
+6. Update the contents and folios after changing the page order.
+
+Canva: import the PPTX and review every page. Import is untested; no Canva template link is included.
+Rights: source assets are reused on the basis of the user's confirmed editable-template resale rights. See ASSET-PROVENANCE.md.
+V1 is retained separately in the repository. These are the revised V2 files.

@@ -1,0 +1,137 @@
+{
+  "version": "V2",
+  "checked_at_utc": "2026-10-21T09:26:45.955403+00:00",
+  "formats": {
+    "A4": {
+      "slides": 56,
+      "pdf_pages": 56,
+      "size_pt": [
+        595.2755737304688,
+        841.8897705078125
+      ],
+      "native_text_blocks": 311,
+      "missing_text": [],
+      "zip_error": null,
+      "native_picture_shapes": 153,
+      "note": "Includes inherited picture fills and groups; native picture count excludes picture fills."
+    },
+    "Letter": {
+      "slides": 56,
+      "pdf_pages": 56,
+      "size_pt": [
+        612.0,
+        792.0
+      ],
+      "native_text_blocks": 311,
+      "missing_text": [],
+      "zip_error": null,
+      "native_picture_shapes": 153,
+      "note": "Includes inherited picture fills and groups; native picture count excludes picture fills."
+    }
+  },
+  "main_pdf_pages": 52,
+  "main_source_pages": [
+    1,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32,
+    33,
+    34,
+    35,
+    36,
+    37,
+    38,
+    39,
+    40,
+    41,
+    42,
+    43,
+    44,
+    45,
+    46,
+    47,
+    48,
+    49,
+    50,
+    51,
+    52,
+    55,
+    56
+  ],
+  "overview_pages": 4,
+  "visual_review": "All 56 A4 pages reviewed in contact sheets; selected pages including covers, contents, letter, fashion and souvenir details reviewed at larger scale.",
+  "render_engine": "LibreOffice PDF export; PyMuPDF inspection and PDF packaging",
+  "text_check": "Every nonempty native PPTX text block occurs in the corresponding PDF page after whitespace and typographic-apostrophe/dash normalization.",
+  "source_rights": "User confirmed editable-template resale rights; underlying licences not independently audited.",
+  "unverified": [
+    "Canva import and template-link creation",
+    "Interactive Microsoft PowerPoint editing",
+    "Physical print proof",
+    "Source licences and trademark clearance"
+  ],
+  "source_limit": "New Italy PPTX exceeded transfer limit; earlier 56 JPG pages used instead.",
+  "files": {
+    "Design-Preview-V2.jpg": {
+      "bytes": 443426,
+      "sha256": "aebaafdca7d21049773c3fefd6f8d8f1359d7d0c72c184d464df376c7c06de1c"
+    },
+    "Editing-Guide-EN.pdf": {
+      "bytes": 40155,
+      "sha256": "e7e5460efe0a0b63275ef3abbbc91233b048a9df05e8f240e327bfc12634cd89"
+    },
+    "Page-Overview-V2.pdf": {
+      "bytes": 2442059,
+      "sha256": "1cc07f2f91e1e4b12b1a38df458616b8d071179467390c48d42b2654d1fa1082"
+    },
+    "Travel-Magazine-V2-A4.pdf": {
+      "bytes": 17758288,
+      "sha256": "e7689f73bc28a6984b23a2ee160be77f7ccd062ce3bd4eb2778caffffa30e2e8"
+    },
+    "Travel-Magazine-V2-A4.pptx": {
+      "bytes": 16772247,
+      "sha256": "cb3c9e29a053a871a8be84fd209234786ca0469dd8ae22204ff4ff1177327c46"
+    },
+    "Travel-Magazine-V2-Letter.pdf": {
+      "bytes": 17851812,
+      "sha256": "0227927fa8e02e39749d50b8e196db40eef69ad5386fb10e80e2bc008daf43ef"
+    },
+    "Travel-Magazine-V2-Letter.pptx": {
+      "bytes": 16769253,
+      "sha256": "b6b33a57fbfc9120846250ebdae22f859697267f9ac58b4f993fec3ae3e2fb52"
+    },
+    "Travel-Magazine-V2-Main-52p.pdf": {
+      "bytes": 17790365,
+      "sha256": "4d3a2c96310a7afc4df6f18b25bf3c6db21fdac15916a8ecd7176aa2d97421b4"
+    },
+    "Vergleich-Referenz-V1-V2.jpg": {
+      "bytes": 373328,
+      "sha256": "1e8a930ea26ffd29911a89322a0bc72f9491bab69559e23f56862b386d254b1f"
+    }
+  }
+}
